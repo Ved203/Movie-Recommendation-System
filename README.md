@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-🔗 [Streamlit App]((https://movie-recommendation-system-mzspbf6qtwy2c9bq3fewup.streamlit.app/))
+🔗 [Streamlit App](https://movie-recommendation-system-mzspbf6qtwy2c9bq3fewup.streamlit.app/)
 
 ## GitHub Repository
 
